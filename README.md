@@ -1,2 +1,2 @@
 # Dental-website_allsmiles
-live preview: 
+live preview: https://pronoyeugin.github.io/Dental-website_-allsmiles/
